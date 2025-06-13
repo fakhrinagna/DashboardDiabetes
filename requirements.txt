@@ -6,3 +6,4 @@ joblib
 matplotlib
 missingno
 scikit-learn
+kneed
